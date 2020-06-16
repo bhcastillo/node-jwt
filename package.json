@@ -1,0 +1,16 @@
+{
+  "name": "app-jwt",
+  "version": "1.0.0",
+  "description": "app con integración de jwt",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brayan Castillo <bhcastillor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.9.19"
+  }
+}
